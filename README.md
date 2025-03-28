@@ -48,14 +48,6 @@
 
 ###
 
-<img align="right" height="130" src="https://media.discordapp.net/attachments/1212170371709669427/1354833927759724654/shiny_giratina_origin_by_midnightsshinies_dannnt3.gif?ex=67e6baeb&is=67e5696b&hm=8c04e12eb47a473386c51ab05aa8f73993459bc9ca6b0b6aa38cb057154a4885&="  />
-
-###
-
-<img align="left" height="130" src="https://media.discordapp.net/attachments/1212170371709669427/1354833927168065646/hisuian_typhlosion_gen_5_style_animated_sprite_by_hellfire0raptor_dfju4h8.gif?ex=67e6baeb&is=67e5696b&hm=96506f86b2539532b30b7e1ccafbdaff78083afb4b24607fd65a3171b2fcd665&="  />
-
-###
-
 <img align="right" height="130" src="https://media.discordapp.net/attachments/1212170371709669427/1354828002084786338/887_dragapult__regular__by_pts_sprites_ddoecex.gif?ex=67e6b567&is=67e563e7&hm=d28cc9027218a679850367ace3f9bb143403bfa28ad5ae3786b37e7845159bd0&="  />
 
 ###
